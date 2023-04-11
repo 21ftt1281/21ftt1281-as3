@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
     HI DOES THIS WORK!
   </h1> -->
   <div class="p-10 from-indigo-100 to-yellow-100 md:flex md:item-center md:justify-items">
-    <img src="/public/image.jpg" alt="">
+    <img src="/public/image.jpg" alt="" class="w-1/2 p-5">
     <table class="border border-solid border-black">
     <tr class="border border-solid border-black">
       <td colspan="2">Student Information</td>
